@@ -80,7 +80,6 @@ proxy-groups:
   type: select
   proxies:
     - 'ipdeep 美国静态IP(纽约) [70.39.158.165]'
-    - '美国静态IP-代理链'
 
 -
   name: 前置代理
